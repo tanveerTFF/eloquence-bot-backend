@@ -1,0 +1,26 @@
+# Ignore the node_modules folder (dependencies)
+node_modules/
+
+# Ignore package lock files (if using npm)
+package-lock.json
+
+# Ignore the environment file
+.env
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore build output folders
+dist/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore test coverage reports
+coverage/
